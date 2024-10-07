@@ -1,0 +1,11 @@
+{
+  "posts": [
+    {
+      "user": "gabriel.correia",
+      "title": "title of post",
+      "postContent": "content of post",
+      "subtitle": "subtitle of post",
+      "id": 1
+    }
+  ]
+}
